@@ -145,8 +145,8 @@ FakesAssemblies/
 Backups/
 /assets/images/Cached
 /media/
-Captec.Umbraco/Media
-Captec.Umbraco/App_Data
+wl-umbraco/Media
+wl-umbraco/App_Data
 
 ##############################################################
 # Frontend specific ignores
@@ -167,8 +167,9 @@ Captec.Umbraco/App_Data
 /Source/Website/App_Plugins/UmbracoForms/Data/workflows/*.json
 
 
-Captec.Umbraco/Media/
-Captec.Umbraco/App_Data/
-Captec.Umbraco/ftp/
-Captec.Umbraco/processing/
-Captec.Umbraco/processed/
+wl-umbraco/Media/
+wl-umbraco/App_Data/
+wl-umbraco/ftp/
+wl-umbraco/processing/
+wl-umbraco/processed/
+wl-umbraco/App_Data/umbraco.config
